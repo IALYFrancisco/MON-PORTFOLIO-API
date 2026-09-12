@@ -1,0 +1,20 @@
+{
+  "name": "mon-portfolio-api",
+  "version": "1.0.0",
+  "description": "Application serving the client of my new portftolio.",
+  "homepage": "https://github.com/IALYFrancisco/MON-PORTFOLIO-API#readme",
+  "bugs": {
+    "url": "https://github.com/IALYFrancisco/MON-PORTFOLIO-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IALYFrancisco/MON-PORTFOLIO-API.git"
+  },
+  "license": "ISC",
+  "author": "IALY",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
